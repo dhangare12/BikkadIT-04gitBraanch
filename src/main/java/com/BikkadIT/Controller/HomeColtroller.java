@@ -7,6 +7,7 @@ public class HomeColtroller {
 
 	public String welcome() {
 		String m="welcome to home";
+		System.out.println("hello all");
 		return m;
 		
 	}
